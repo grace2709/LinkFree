@@ -1,0 +1,12 @@
+{
+  "name": "Chiamaka Anyanwu",
+  "type": "personal",
+  "bio": "CS student learning web development and cloud engineering"
+"links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/ChiamakaAnyan11",
+      "icon": "FaTwitter"
+    }
+  ]
+}
